@@ -1,5 +1,5 @@
 // questo è un commento 
-// il : fa una connessione parallela
+// il ; fa una connessione parallela
 // connessione seriale è , 
 // tutti i segni algebrici (+,-,:,*) sono operatori matematici
 
